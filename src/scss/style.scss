@@ -1,0 +1,48 @@
+$primary-color:white;
+$secondary-color:black;
+
+
+nav {
+    ul
+    li{
+        list-style: none;
+    }
+    a{
+        color: $primary-color;
+    }
+}
+
+img{
+    max-width: 100%
+}
+  
+.avater img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.trend-chart{
+    padding-bottom: 29px;
+}
+  
+.br{
+    border-right: 1px solid black;
+}
+.bold{
+    font-weight: bold;
+}
+
+.icons{
+    display: flex;   
+}
+
+.card__line{
+    border-bottom: 1px solid $secondary-color;
+}
+  
+.icons{
+    display: flex;
+}
+.font{
+    font-weight: 500;
+}

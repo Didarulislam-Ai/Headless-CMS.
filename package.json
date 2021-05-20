@@ -1,0 +1,16 @@
+{
+  "name": "dashoard",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "lite-server --baseDir=\"public\"",
+    "watch": "node-sass src/scss -wo public/assets/css",
+    "start": "concurrently \"npm run watch\" \"npm run dev\""
+  },
+  "author": "Did",
+  "private": true,
+  "devDependencies": {
+    "concurrently": "^6.0.0",
+    "lite-server": "^2.6.1",
+    "node-sass": "^5.0.0"
+  }
+}

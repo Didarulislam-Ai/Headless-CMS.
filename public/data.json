@@ -1,0 +1,20 @@
+{
+    "title1":"61",
+    "title2":"16",
+    "title3":"43",
+    "title4":"64",
+    "title5":"Tickets",
+    "title6":"Tickets Left",
+    "list":[
+        {"para":"Waiting on Feature Request" , "text":"4238"},
+        {"para":"Waiting on Actual Req" , "text":"0668"},
+        {"para":"Waiting on minimal Req" , "text":"2328"},
+        {"para":"Waiting on past Req" , "text":"0976"}
+    ],
+    "list1":[
+        {"pararight":"Total ammount paid", "textright":"8796"},
+        {"pararight":"Total employees", "textright":"0986"},
+        {"pararight":"Empolyees under assesment", "textright":"8796"},
+        {"pararight":"Employess total rew", "textright":"3296"}
+    ]
+}
